@@ -73,7 +73,6 @@ body * {
   width: 64px;
   position: relative;
   margin: 4px auto;
-  cursor: pointer;
 }
 
 #switch button {
